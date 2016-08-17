@@ -1,2 +1,2 @@
 # Bookmark
-Is a list of web resources for developers
+This repo contains two things:a list of links to web developer resources and a list of tutorials
